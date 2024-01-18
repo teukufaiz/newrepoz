@@ -1,3 +1,6 @@
 [submodule "OnlineCourseBE"]
 	path = OnlineCourseBE
 	url = https://github.com/teukufaiz/OnlineCourseBE.git
+[submodule "OnlineCourse_adminpanel"]
+	path = OnlineCourse_adminpanel
+	url = https://github.com/winbiz-project/onlineCourse_adminPanel.git

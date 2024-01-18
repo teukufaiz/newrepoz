@@ -1,0 +1,3 @@
+[submodule "OnlineCourseBE"]
+	path = OnlineCourseBE
+	url = https://github.com/teukufaiz/OnlineCourseBE.git
